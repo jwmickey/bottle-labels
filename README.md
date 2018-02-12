@@ -1,7 +1,7 @@
 This is a label generator for infant bottle labels provided by LaPetite Academy.  No affiliation with LaPetite Academy.
 Use at your own risk.  No warranty or guarantee.
 
-
+View at http://www.jodymickey.com/bottle-labels/
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
