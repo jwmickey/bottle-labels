@@ -7,9 +7,9 @@ class App extends React.Component {
     super(props);
 
     this.state = {
-     first: 'Savannah',
-     last: 'Mickey',
-     contents: 'Formula',
+     first: '',
+     last: '',
+     contents: '',
      startDate: moment().format('YYYY-MM-DD'),
      bottlesPerDay: 3,
      bottlesOnFirstDay: 3
